@@ -17,7 +17,7 @@
   "scripts": [
     "module.js"
   ],
-  "styles": [
+  "style": [
     "module.css"
   ],
   "icon": "icons/crimson.png",
