@@ -1,0 +1,31 @@
+{
+  "name": "Crimson Spell Type",
+  "title": "Crimson Spell Type",
+  "description": "Adds a new spell type called Crimson to the D&D 5e system.",
+  "version": "0.1.0",
+  "minimumCoreVersion": "0.8.9",
+  "author": "Your Name",
+  "manifest": "https://raw.githubusercontent.com/your-github-username/your-module-name/main/module.json",
+  "dependencies": [
+    {
+      "name": "dnd5e",
+      "manifest": "https://github.com/League-of-Foundry-Developers/dnd5e/raw/master/module.json",
+      "type": "module",
+      "required": true
+    }
+  ],
+  "scripts": [
+    "module.js"
+  ],
+  "style": [
+    "module.css"
+  ],
+  "icon": "icons/crimson.png",
+  "keywords": [
+    "foundryvtt",
+    "module",
+    "dnd5e",
+    "spell type",
+    "crimson"
+  ]
+}
