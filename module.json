@@ -5,11 +5,13 @@
   "version": "0.1.0",
   "minimumCoreVersion": "0.8.9",
   "author": "Your Name",
-  "manifest": "https://github.com/CptLucky27/crimson-spell-type/edit/main/module.json",
+  "manifest": ""https://raw.githubusercontent.com/CptLucky27/crimson-spell-type/main/module.json"
+",
   "dependencies": [
     {
       "name": "dnd5e",
-      "manifest": "https://https://github.com/CptLucky27/crimson-spell-type/edit/main/module.json",
+      "manifest": ""https://raw.githubusercontent.com/CptLucky27/crimson-spell-type/main/module.json"
+",
       "type": "module",
       "required": true
     }
