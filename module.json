@@ -9,7 +9,7 @@
   "dependencies": [
     {
       "name": "dnd5e",
-      "manifest": "https://raw.githubusercontent.com/CptLucky27/crimson-spell-type/mains/dist/module.json",
+      "manifest": "https://raw.githubusercontent.com/CptLucky27/crimson-spell-type/main/dist/module.json",
       "type": "module",
       "required": true
     }
