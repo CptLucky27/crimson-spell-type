@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "minimumCoreVersion": "0.8.9",
   "author": "Your Name",
-   "url": "https://github.com/CptLucky27/crimson-spell-type",
+  "url": "https://github.com/CptLucky27/crimson-spell-type",
   "manifest": "https://raw.githubusercontent.com/CptLucky27/crimson-spell-type/main/dist/module.json",
   "download": "https://github.com/CptLucky27/crimson-spell-type/raw/main/crimson-spell-type.zip",
   "dependencies": [
